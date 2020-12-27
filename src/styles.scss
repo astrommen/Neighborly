@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+*{
+  margin:0px;
+  padding:0px
+}
+
+// Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:ital,wght@0,100;0,500;1,900&family=Hanalei+Fill&family=Kodchasan:wght@200;400;600&family=Montserrat+Alternates:wght@100;200;300;500;600;800&family=Open+Sans&display=swap');
+
+// Font Variables
+$alegreya-sans: 'Alegreya Sans SC', sans-serif;
+$hanalei-fill: 'Hanalei Fill', cursive;
+$kodchasan: 'Kodchasan', sans-serif;
+$montserrat: 'Montserrat Alternates', sans-serif;
+$open-sans: 'Open Sans', sans-serif;

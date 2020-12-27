@@ -1,0 +1,32 @@
+$kodchasan: 'Kodchasan', sans-serif;
+
+div {
+  height: 100vh;
+  width: 100%;
+  background-image: url("../../../assets/images/amoon-ra-n8vDuIpGb0c-unsplash.jpg");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  overflow:hidden
+} 
+
+section {
+  background: rgba($color: #ffffff, $alpha: 0.5);
+  // padding: 21px 40px 40px;
+  padding: 40px 70px 70px;
+  border-radius: 40px;
+
+  h1 {
+    font-family: $kodchasan;
+    font-size: 62px;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+    color: #C2EEFF;
+    margin-bottom: 15px;
+  }
+}
+  
