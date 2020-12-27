@@ -1,0 +1,6 @@
+<div>
+  <input type="text" #box id="input" (keyup)="getVal($event.target.value)" placeholder="Enter a zipcode...">
+  <a class="btn" routerLink="/results" (click)="getVal(box.value)"> 
+    <img src="../../../assets/images/NextIcon.svg" alt="">
+  </a>
+</div>
