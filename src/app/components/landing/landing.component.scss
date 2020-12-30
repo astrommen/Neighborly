@@ -19,6 +19,8 @@ section {
   // padding: 21px 40px 40px;
   padding: 40px 70px 70px;
   border-radius: 40px;
+  display: grid;
+  justify-items: center;
 
   h1 {
     font-family: $kodchasan;

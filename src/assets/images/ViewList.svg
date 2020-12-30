@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: SketchAPI 5.1.316 <https://api.sketch.io/> -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketchjs="https://sketch.io/dtd/" style="" sketchjs:metadata="eyJ0aXRsZSI6Ijg1MDdlYzc1LTNkMTYtNGFhNS1iNDEwLTI3YmU2ODNiMzZjYiIsImRlc2NyaXB0aW9uIjoiTWFkZSB3aXRoIFNrZXRjaHBhZCAtIGh0dHBzOi8vc2tldGNoLmlvL3NrZXRjaHBhZCIsIm1ldGFkYXRhIjp7fSwiY2xpcFBhdGgiOnsiZW5hYmxlZCI6dHJ1ZSwic3R5bGUiOnsic3Ryb2tlU3R5bGUiOiJibGFjayIsImxpbmVXaWR0aCI6MX19LCJleHBvcnREUEkiOjcyLCJleHBvcnRGb3JtYXQiOiJwbmciLCJleHBvcnRRdWFsaXR5IjowLjk1LCJ1bml0cyI6InB4Iiwid2lkdGgiOjUzLCJoZWlnaHQiOjUzLCJwYWdlcyI6eyJsZW5ndGgiOjEsImRhdGEiOlt7IndpZHRoIjo1MywiaGVpZ2h0Ijo1M31dfX0=" width="53" height="53" viewBox="0 0 53 53" sketchjs:version="5.1.316">
+<defs>
+	<pattern id="dna_168089478" src="#asset-965745a2-a8fd-47f4-970d-c80c09d500a8" patternUnits="userSpaceOnUse" width="77" height="77">
+		<image xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAABNCAYAAADjCemwAAAALklEQVR4nO3BMQEAAADCoPVPbQdvoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATgNc8QAB4LmEJAAAAABJRU5ErkJggg==" width="77" height="77"/>
+	</pattern>
+</defs>
+<path sketchjs:tool="rectangle" style="fill: url(#dna_168089478); stroke: transparent; mix-blend-mode: destination-out; paint-order: stroke fill markers; fill-opacity: 1; fill-rule: nonzero; stroke-alignment: center; stroke-dasharray: none; stroke-dashoffset: 0; stroke-linecap: round; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-opacity: 1; stroke-width: 1; vector-effect: non-scaling-stroke;" d="M0 0 L53 0 53 53 0 53 z"/>
+<g sketchjs:tool="clipart" style="mix-blend-mode: source-over;" transform="matrix(2.68329177057357,0,0,2.68329177057357,-5.02023464458247,-12.366211180124221)">
+	<path d="M0 0h24v24H0V0z" sketchjs:uid="1" style="fill: none; opacity: 0.87;"/>
+	<path d="M3 14h4v-4H3v4zm0 5h4v-4H3v4zM3 9h4V5H3v4zm5 5h12v-4H8v4zm0 5h12v-4H8v4zM8 5v4h12V5H8z" sketchjs:uid="2" style=""/>
+</g>
+<path sketchjs:tool="rectangle" style="fill: #000000; mix-blend-mode: destination-out; fill-opacity: 1; fill-rule: nonzero; vector-effect: non-scaling-stroke; visibility: hidden;" d="M0 0 L21.71 0 21.71 3.7 0 3.7 z" transform="matrix(1,0,0,1,-53.222857142857144,3.1885714285714286)"/>
+<g sketchjs:tool="clipart" style="mix-blend-mode: source-over;" transform="matrix(2.68329177057357,0,0,2.68329177057357,-4.898329882677709,27.740455486542437)">
+	<path d="M0 0h24v24H0V0z" sketchjs:uid="1" style="fill: none; opacity: 0.87;"/>
+	<path d="M3 14h4v-4H3v4zm0 5h4v-4H3v4zM3 9h4V5H3v4zm5 5h12v-4H8v4zm0 5h12v-4H8v4zM8 5v4h12V5H8z" sketchjs:uid="2" style=""/>
+</g>
+<path sketchjs:tool="rectangle" style="fill: #ffffff; stroke: #ffffff; mix-blend-mode: destination-out; paint-order: stroke fill markers; fill-opacity: 1; fill-rule: nonzero; stroke-alignment: center; stroke-dasharray: none; stroke-dashoffset: 0; stroke-linecap: round; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-opacity: 1; stroke-width: 0.01; vector-effect: non-scaling-stroke;" d="M0 0 L46.93 0 46.93 10.48 0 10.48 z" transform="matrix(1,0,0,3.1605729362985304,2.903574879227053,54.19378881987577)"/>
+</svg>

@@ -7,6 +7,7 @@ import { LandingComponent } from './components/landing/landing.component';
 import { SearchResultsComponent } from './components/pages/search-results/search-results.component';
 import { ResultsItemComponent } from './components/results-item/results-item.component';
 import { SearchBarComponent } from './components/search-bar/search-bar.component';
+import { HeaderComponent } from './components/layout/header/header.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { SearchBarComponent } from './components/search-bar/search-bar.component
     LandingComponent,
     SearchResultsComponent,
     ResultsItemComponent,
-    SearchBarComponent
+    SearchBarComponent,
+    HeaderComponent
   ],
   imports: [
     BrowserModule,

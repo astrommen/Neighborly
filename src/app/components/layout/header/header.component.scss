@@ -1,0 +1,27 @@
+ul {
+  background-color: #C2EEFF;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  list-style-type: none;
+  border-bottom: solid black 1px;
+  padding: 10px 0px;
+
+  .nav-links {
+    display: flex;
+    flex-direction: row;
+  }
+
+  li {
+    #backBtn {
+      width: 32px;
+    }
+
+    img {
+      width: 24px;
+      margin-right: 10px;
+    }
+  }
+
+}
