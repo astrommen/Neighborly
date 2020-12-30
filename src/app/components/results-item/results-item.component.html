@@ -1,4 +1,19 @@
 <ul>
-  <li>{{ result.name }}</li>
-  <li>{{ result.formatted_address }}</li>
+  <li class="name">{{ result.name }}</li>
+  <li class="address">
+    <p class="address-section">
+
+      <img class="pin-icon" src="../../../assets/images/pin.svg" alt="">
+    
+      <span>
+
+      {{ result.formatted_address }}
+      </span>
+    </p>
+    
+    <p>
+
+      <img class="detail-icon" src="../../../assets/images/DetailIcon2.svg" alt="">
+    </p> 
+  </li>
 </ul>
