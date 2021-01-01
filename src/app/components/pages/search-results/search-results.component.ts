@@ -9,7 +9,16 @@ import { SearchResult } from 'src/app/models/SearchResult';
 })
 export class SearchResultsComponent implements OnInit {
 
+  displayList: boolean;
+  displayMap: boolean;
+
   results:SearchResult[];
+
+  showHideComp(value) {
+    this.displayList = value;
+    this.displayMap = !value;
+    console.log(this.displayList, this.displayMap)
+  }
 
   constructor() { }
 

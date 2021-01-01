@@ -7,7 +7,11 @@
     </li>
 
     <li class="toggle-icons">
-      <img src="../../../../assets/images/map2.svg" alt="">
-      <img src="../../../../assets/images/ViewList.svg" alt="">
+      <button id="mapView" (click)="setDisplayComp(false)">
+        <img src="../../../../assets/images/map2.svg" alt="icon of a map">
+      </button>
+      <button id="listView" (click)="setDisplayComp(true)">
+        <img src="../../../../assets/images/ViewList.svg" alt="icon of a list">
+      </button>
     </li>
   </ul>
