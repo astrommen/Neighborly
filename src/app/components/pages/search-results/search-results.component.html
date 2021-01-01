@@ -1,8 +1,5 @@
 <div>
   <app-header (showCompValue)="showHideComp($event)"></app-header>
   <app-results-list *ngIf="displayList"></app-results-list>
-  <!-- <app-results-item *ngFor="let result of results" [result]="result">  -->
-    <!-- "[result]" equals tag result from results-item input property -->
-  <!-- </app-results-item> -->
   <app-results-map *ngIf="displayMap"></app-results-map>
 </div>
