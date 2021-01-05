@@ -11,15 +11,29 @@ ul {
   .nav-links {
     display: flex;
     flex-direction: row;
-  }
 
-  li {
     #backBtn {
       width: 32px;
       background: url("../../../../assets/images/BackIcon.svg") no-repeat;
       border: none;
       margin-top: 3px;
     }
+  }
+
+  li {
+
+    #mapView {
+      background-color: transparent;
+      border: none;
+    }
+
+    #listView {
+      background-color: transparent;
+      border: none;
+    }
+  }
+
+  li {
 
     img {
       width: 24px;
