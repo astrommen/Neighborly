@@ -1,5 +1,6 @@
 {
   "name": "neighborly",
+  "proxy": "http://localhost:3001/",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -24,13 +25,17 @@
     "zone.js": "~0.10.3"
   },
   "devDependencies": {
+    "@angular-builders/custom-webpack": "^11.0.0",
+    "@angular-builders/dev-server": "^7.3.1",
     "@angular-devkit/build-angular": "~0.1000.8",
     "@angular/cli": "~10.0.8",
     "@angular/compiler-cli": "~10.0.14",
-    "@types/node": "^12.11.1",
+    "@types/googlemaps": "^3.43.0",
     "@types/jasmine": "~3.5.0",
     "@types/jasminewd2": "~2.0.3",
+    "@types/node": "^12.19.11",
     "codelyzer": "^6.0.0",
+    "dotenv": "^8.2.0",
     "jasmine-core": "~3.5.0",
     "jasmine-spec-reporter": "~5.0.0",
     "karma": "~5.0.0",
